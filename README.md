@@ -1,10 +1,10 @@
 ---
 services: Locks
-platforms: .Net
+platforms: dotnet
 author: martinsawicki
 ---
 
-# Getting Started with Locks - Manage Locks - in .Net #
+# Getting started with managing resource locks in .NET #
 
           Azure sample for applying locks to resources
          
@@ -24,7 +24,7 @@ author: martinsawicki
 
 To run this sample:
 
-Set the environment variable `AZURE_AUTH_LOCATION` with the full path for an auth file. See [how to create an auth file](https://github.com/Azure/azure-sdk-for-net/blob/Fluent/AUTH.md).
+Set the environment variable `AZURE_AUTH_LOCATION` with the full path for an auth file. See [how to create an auth file](https://github.com/Azure/azure-libraries-for-java/blob/master/AUTH.md).
 
     git clone https://github.com/Azure-Samples/locks-dotnet-manage-locks.git
 
