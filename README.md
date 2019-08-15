@@ -4,25 +4,21 @@ languages:
 - csharp
 products:
 - azure
-services: Locks
-platforms: dotnet
-author: yaohaizh
+extensions:
+- services: Locks
+- platforms: dotnet
 ---
 
 # Getting started with managing resource locks in .NET #
 
-          Azure sample for applying locks to resources
-         
-          Summary ...
-         
-          This sample shows examples of management locks usage on various resources.
-         
-          Details ...
-         
-          1. Create a number of various resources to apply locks to...
-          2. Apply various locks to the resources
-          3. Retrieve and show lock information
-          4. Remove the locks and clean up
+ Azure sample for applying locks to resources
+ Summary ...
+ This sample shows examples of management locks usage on various resources.
+ Details ...
+ 1. Create a number of various resources to apply locks to...
+ 2. Apply various locks to the resources
+ 3. Retrieve and show lock information
+ 4. Remove the locks and clean up
 
 
 ## Running this Sample ##
