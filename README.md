@@ -10,7 +10,7 @@ extensions:
 description: "This sample shows examples of management locks usage on various resources."
 ---
 
-# Getting started with managing resource locks in .NET #
+# Getting started with managing resource locks in .NET
 
 Azure sample for applying locks to resources.
 
