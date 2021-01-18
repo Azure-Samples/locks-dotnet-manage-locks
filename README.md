@@ -5,8 +5,8 @@ languages:
 products:
 - azure
 extensions:
-- services: Locks
-- platforms: dotnet
+  services: Locks
+  platforms: dotnet
 ---
 
 # Getting started with managing resource locks in .NET #
